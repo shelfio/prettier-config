@@ -25,7 +25,9 @@ module.exports = {
   printWidth: 100,
   singleQuote: true,
   bracketSpacing: false,
-  trailingComma: 'none'
+  trailingComma: 'none',
+  parser: 'typescript',
+  arrowParens: 'avoid'
 };
 ```
 
