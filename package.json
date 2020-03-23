@@ -1,6 +1,6 @@
 {
   "name": "@shelf/prettier-config",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Reusable Prettier config",
   "license": "MIT",
   "author": {
@@ -12,9 +12,6 @@
     "index.json"
   ],
   "main": "index.json",
-  "engines": {
-    "node": ">=12"
-  },
   "publishConfig": {
     "access": "public"
   }
