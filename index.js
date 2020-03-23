@@ -3,6 +3,6 @@ module.exports = {
   singleQuote: true,
   bracketSpacing: false,
   trailingComma: 'none',
-  parser: 'typescript-eslint',
+  parser: 'typescript',
   arrowParens: 'avoid'
 };
