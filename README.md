@@ -18,6 +18,17 @@ In your `package.json`
 }
 ```
 
+## Config Content
+
+```js
+module.exports = {
+  printWidth: 100,
+  singleQuote: true,
+  bracketSpacing: false,
+  trailingComma: 'none'
+};
+```
+
 ## License
 
 MIT © [Shelf](https://shelf.io)
