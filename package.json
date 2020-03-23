@@ -1,6 +1,6 @@
 {
   "name": "@shelf/prettier-config",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Reusable Prettier config",
   "license": "MIT",
   "author": {
@@ -9,9 +9,9 @@
     "url": "https://shelf.io"
   },
   "files": [
-    "index.js"
+    "index.json"
   ],
-  "main": "index.js",
+  "main": "index.json",
   "engines": {
     "node": ">=12"
   },
