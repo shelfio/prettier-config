@@ -1,6 +1,7 @@
 {
   "name": "@shelf/prettier-config",
   "version": "1.0.0",
+  "type": "module",
   "description": "Reusable Prettier config",
   "license": "MIT",
   "author": {
