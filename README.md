@@ -58,7 +58,7 @@ Repo-specific ignore rules should stay local in each repo's `oxfmt.config.ts`.
 
 ## Migration Guide
 
-The staged Oxfmt migration guide lives in [MIGRATING_TO_OXFMT.md](./MIGRATING_TO_OXFMT.md).
+The staged Oxfmt migration guide/prompt/skill lives in the context repository under `docs/oxfmt-migration.md`.
 
 ## Publish
 
