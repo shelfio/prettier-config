@@ -10,9 +10,14 @@
     "url": "https://shelf.io"
   },
   "files": [
-    "index.json"
+    "index.json",
+    "oxfmt.js"
   ],
   "main": "index.json",
+  "exports": {
+    ".": "./index.json",
+    "./oxfmt": "./oxfmt.js"
+  },
   "publishConfig": {
     "access": "public"
   }
