@@ -3,6 +3,14 @@
   "version": "1.1.1",
   "type": "module",
   "description": "Reusable Prettier config",
+  "homepage": "https://github.com/shelfio/prettier-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shelfio/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shelfio/prettier-config/issues"
+  },
   "license": "MIT",
   "author": {
     "name": "Vlad Holubiev",
