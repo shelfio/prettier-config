@@ -8,6 +8,14 @@
   "type": "module",
   "description": "Reusable Prettier config",
   "license": "MIT",
+  "homepage": "https://github.com/shelfio/prettier-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelfio/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shelfio/prettier-config/issues"
+  },
   "author": {
     "name": "Vlad Holubiev",
     "email": "vlad@shelf.io",
